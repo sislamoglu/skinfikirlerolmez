@@ -5,7 +5,7 @@ accessory_paint_job_data : dafxf61938.daf.xf.50k.paint_job
 	 name : "Fikirler Ölmez"
 	 price : 1938
 	 unlock : 6
-	 icon : "pj_ata"
+	 icon : "pj_fikirlerolmez"
 	 airbrush : true
 	 base_color : (0, 0, 0)
 	 paint_job_mask: "/vehicle/truck/upgrade/paintjob/pj_dafxf1938.tobj"
