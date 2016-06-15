@@ -1,0 +1,6 @@
+map	2d	
+	pj_ata38v12.tga
+quality high
+addr
+	clamp_to_edge
+	clamp_to_edge

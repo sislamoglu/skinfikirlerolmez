@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_paint_job_data : ataivcc.iveco.stralis.paint_job
+{
+	 name : "Fikirler Ölmez"
+	 price : 1938
+	 unlock : 6
+	 icon : "pj_ata"
+	 airbrush : true
+	 base_color : (0, 0, 0)
+	 paint_job_mask: "/vehicle/truck/upgrade/paintjob/pj_ataivcc.tobj"
+	 suitable_for[]: "at.iveco.stralis.cabin"
+}
+}

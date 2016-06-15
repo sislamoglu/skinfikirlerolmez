@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "pj_fikirlerolmez.tobj"
+	texture_name : "texture"
+}

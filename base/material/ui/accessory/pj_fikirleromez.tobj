@@ -1,0 +1,7 @@
+map	2d	
+	pj_fikirlerolmez.tga
+quality high
+addr
+	clamp_to_edge
+	clamp_to_edge
+usage ui

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_paint_job_data : ata38sbc.scania.rs.paint_job
+{
+	 name : "Fikirler Ölmez"
+	 price : 1938
+	 unlock : 6
+	 icon : "pj_ata"
+	 airbrush : true
+	 base_color : (0, 0, 0)
+	 paint_job_mask: "/vehicle/truck/upgrade/paintjob/pj_ata38sbc.tobj"
+	 suitable_for[]: "highline.scania.rs.cabin"
+	 suitable_for[]: "normal.scania.rs.cabin"
+}
+}
